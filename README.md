@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently learning python
 
-![Anelize GitHub stats](https://github-readme-stats.vercel.app/api?username=anelizemeneses&show_icons=true&theme=radical)
+![Anelize GitHub stats](https://github-readme-stats.vercel.app/api?username=anelizemeneses&show_icons=true&theme=synthwave)
 
 
